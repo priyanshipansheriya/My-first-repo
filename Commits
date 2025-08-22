@@ -1,0 +1,15 @@
+# initialize project structure
+chore: initialize Java project with basic folder structure
+
+##Add main program file
+feat: add main class to calculate sum of two numbers
+
+##Add input validation
+fix: handle invalid number input to prevent program crash
+
+##Improve user interaction
+feat: display clear instructions and formatted output
+
+##Update documentation
+docs: update README with usage instructions and example
+
